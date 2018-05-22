@@ -1,3 +1,5 @@
-# H1 ReadMe
+# ReadMe
 
-# H2 Assumptions
+## Assumptions
+
+* We can't change the db but I assume creating a view ontop of the db is ok.
